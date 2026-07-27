@@ -2,7 +2,7 @@
 Stop typing expressions manually—give your AE layers the jitters in a single click.
 "Wiggle Me Timbers!" is a lightweight Adobe After Effects 2025 script (.jsx) designed to apply custom wiggle expressions to any property you highlight. 
 
-Demo Preview: (link)
+Demo Preview: https://youtu.be/nWI6FdDkopM
 
 # Features
 
