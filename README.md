@@ -9,6 +9,7 @@ Demo Preview: https://youtu.be/nWI6FdDkopM
 # Features
 
 **Instant Application** The script applies a wiggle expression to any highlighter property
+
 **Multi-property support** Works on almost any property like scale, position, opacity, rotation, and effect properties.
 
 # Installation & Setup
@@ -25,6 +26,9 @@ Demo Preview: https://youtu.be/nWI6FdDkopM
 2. Select any layer and highlight the property you want to wiggle (e.g., `Position`).
 3. Enter in the `Amplitude` and `Frequency` properties and click `Apply`
 4. Watch the magic happen!
+
+# AI usage
+All the errors in the code was pointed out by Gemini AI. 
 
 ## 📄 License
 
