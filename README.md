@@ -16,7 +16,7 @@ Demo Preview:
 2. Move the 'WiggleMeTimbers.jsx' file to the following After Effects Scripts directory:
  * **Windows:** `C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Scripts\ScriptUI Panels`
    * **Mac:** `/Applications/Adobe After Effects <version>/Scripts\ScriptUI Panels`
-3. Restart After Effects (If previously open) and navigate to **Window > WiggleMeTimbers.jsx
+3. Restart After Effects (If previously open) and navigate to **Window > WiggleMeTimbers.jsx**
 
 # Instructions
 
